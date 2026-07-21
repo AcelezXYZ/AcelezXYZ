@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nils-Laurin Ebeling</h1>
 <h3 align="center">AI Builder from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilslaurinebeling&label=Profile%20views&color=0e75b6&style=flat" alt="nilslaurinebeling" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NilsLaurinEbeling&label=Profile%20views&color=0e75b6&style=flat" alt="NilsLaurinEbeling" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilslaurinebeling" alt="nilslaurinebeling" /></a> </p>
 
