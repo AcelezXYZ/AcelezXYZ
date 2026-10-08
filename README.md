@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NilsLaurinEbeling&label=Profile%20views&color=0e75b6&style=flat" alt="NilsLaurinEbeling" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NilsLaurinEbeling" alt="NilsLaurinEbeling" /></a> </p>
-
 - 🔭 I’m currently working on **Chat2Job, Vermietedeinegarage.de, MietcheckAI**
 
 - 📫 How to reach me **nils.ebeling@chat2job.com**
