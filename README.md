@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nils-Laurin Ebeling</h1>
-<h3 align="center">AI Builder from Germany</h3>
+<h1 align="center">Hi 👋, I'm AceleXYZ </h1>
+<h3 align="center">AI Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NilsLaurinEbeling&label=Profile%20views&color=0e75b6&style=flat" alt="NilsLaurinEbeling" /> </p>
 
-- 🔭 I’m currently working on **Chat2Job, Vermietedeinegarage.de, MietcheckAI**
-
-- 📫 How to reach me **nils.ebeling@chat2job.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
